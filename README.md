@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**izadoraluz/izadoraluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Contact Info**
+- e-mail: izadoraluz.rsn@gmail.com
+- institutional e-mail: izadora.novaes@sou.inteli.edu.br
+- mobile: +5577999329364 [whatsapp]
+- linkedIn: [linkedin.com/in/izadoraluz-rsn](https://www.linkedin.com/in/izadoraluz-rsn/)
+- github: [github.com/izadoraluz](https://github.com/izadoraluz/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">	
+	
+[![izadoraluz](https://github-readme-stats.vercel.app/api/top-langs/?username=izadoraluz&hide=html&layout=compact&theme=dark)](https://github.com/izadoraluz/)
+</div>
