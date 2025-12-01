@@ -25,4 +25,4 @@ Já naveguei por várias áreas e tipos de projetos, o que me deu uma visão amp
 ### 📫 Onde me encontrar
 
 - ✉️ Email: **izadoraluz.rsn@gmail.com**
-- 💼 LinkedIn: [Izadora Luz]([https://www.linkedin.com/in/SEU_LINKEDIN/](https://www.linkedin.com/in/izadoraluz-rsn/?locale=en_US))
+- 💼 LinkedIn: [Izadora Luz](https://www.linkedin.com/in/izadoraluz-rsn/?locale=en_US)
