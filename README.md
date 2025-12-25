@@ -1,28 +1,27 @@
-## Olá! Eu sou a Iza 👋
+## Hi! I'm Iza 👋
 
-Curiosa por natureza e generalista por escolha.  
-Já naveguei por várias áreas e tipos de projetos, o que me deu uma visão ampla de produto, negócio e pessoas, mas meu foco está em **análise de dados**, **ciência de dados** e **construção de soluções com IA**.  
+Curious by nature and a generalist by choice.
 
-### 🔍 Áreas que mais me interessam hoje
+I've worked in various areas and project types, giving me a broad perspective on product, business, and people, but my focus is on **data analysis**, **data science**, and **building solutions with AI**.
 
-- 📊 Análise de dados & métricas
-- 🤖 Modelos de Machine Learning e IA aplicada
-- 🧠 Sistemas inteligentes voltados para produto/negócio
-- 📈 Experimentação, testes A/B e tomada de decisão guiada por dados
+## 🔍 Areas that interest me most today
 
-### 🛠️ Stack & Ferramentas favoritas
+- 📊 Data analysis & metrics
+- 🤖 Machine Learning models and applied AI
+- 🧠 Intelligent systems focused on product/business
+- 📈 Experimentation, A/B testing, and data-driven decision making
 
-> *Algumas das ferramentas/tecnologias com as quais mais tenho afinidade:*
+### 🛠️ Favorite Stack & Tools
+
+> *Some of the tools/technologies I'm most comfortable with:*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
-### 📫 Onde me encontrar
+### 📫 Where to find me
 
 - ✉️ Email: **izadoraluz.rsn@gmail.com**
 - 💼 LinkedIn: [Izadora Luz](https://www.linkedin.com/in/izadoraluz-rsn/?locale=en_US)
