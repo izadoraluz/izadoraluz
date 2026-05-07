@@ -25,3 +25,4 @@ I've worked in various areas and project types, giving me a broad perspective on
 
 - ✉️ Email: **izadoraluz.rsn@gmail.com**
 - 💼 LinkedIn: [Izadora Luz](https://www.linkedin.com/in/izadoraluz-rsn/?locale=en_US)
+- 📞 Telefone (WhatsApp): 11 9 9584-0681
